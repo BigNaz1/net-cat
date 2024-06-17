@@ -1,6 +1,6 @@
 ### Net Cat
 
-TCP Chat is a streamlined chat server and client developed in Go, designed to facilitate real-time communication over TCP. It allows multiple users to connect simultaneously, offering unique identifiers for each participant and preserving a log of the conversation.
+nc system command, is a command-line utility that reads and writes data across network connections using TCP or UDP. It is used for anything involving TCP, UDP, or UNIX-domain sockets, it is able to open TCP connections, send UDP packages, listen on arbitrary TCP and UDP ports and many more.
 
 ### Starting the Server
 
